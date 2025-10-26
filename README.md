@@ -176,10 +176,10 @@ The **JGEKD framework** allows the student model to:
 ### 👨‍🎓 Author
 
 **Abrar Ahmad**
-M.Tech in Artificial Intelligence | Technical Support, FixHealth
-Email: [abrar.ai.dev@gmail.com](mailto:abrar.ahmad@iust.ac.in)
-LinkedIn: [linkedin.com/in/siyran-shafi](https://www.linkedin.com/in/siyran-shafi)
-GitHub: [github.com/siyran-shafi](https://github.com/siyran-shafi)
+* M.Tech in Artificial Intelligence |
+* Email: [abrar.ahmad@iust.ac.in](mailto:abrar.ahmad@iust.ac.in)
+* LinkedIn: [linkedin.com/in/siyran-shafi](https://www.linkedin.com/in/siyran-shafi)
+* GitHub: [github.com/siyran-shafi](https://github.com/siyran-shafi)
 
 ---
 
