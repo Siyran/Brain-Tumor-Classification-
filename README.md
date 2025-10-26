@@ -129,11 +129,6 @@ Epoch 3/10, Train Loss: 0.5421, Test Accuracy: 92.03%
 * Confusion Matrix
 * Precision, Recall, and F1 Report
 
-**Example Visualizations:**
-![Loss Curve](assets/loss_curve.png)
-![Accuracy Curve](assets/accuracy_curve.png)
-![Confusion Matrix](assets/confusion_matrix.png)
-
 ---
 
 ### 🧾 Evaluation Report
